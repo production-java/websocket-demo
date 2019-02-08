@@ -7,3 +7,9 @@ It functions by first establishing HTTP connection with server and then upgradin
 It is well supported in modern browsers as of 2019.
 
 Fully app deployed online: https://are-you-there-yet.herokuapp.com/
+
+---------------------------------
+SPRINGBOOT
+MAVEN
+JAVA 
+SPRING INITIALIZR
